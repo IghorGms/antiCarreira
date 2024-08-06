@@ -1,0 +1,15 @@
+Fully created using HTML and CSS (Also responsivity made with @Querys)
+
+--------------------------
+
+> Projeto para estudo de RESPONSIVIDADE
+> Baseado em um webSite sobre um clube de corrida independente
+> Com lojinha online!
+> coisa pouca
+
+---------------------------
+
+> Project to practice and study responsivity
+> Using only HTML and CSS - Responsivity made based on media Query
+> Website for an independente running club
+> online store!
